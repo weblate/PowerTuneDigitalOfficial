@@ -41,6 +41,8 @@ QGeoPath ioMapData::loadMapData(QString country, QString trackName) {
         }
         inputFile.close();
     }
+
+    return QGeoPath();
 }
 
 QGeoPath ioMapData::parseKML(QList<QString> list)

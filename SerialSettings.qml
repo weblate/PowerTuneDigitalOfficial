@@ -10,10 +10,8 @@ import "qrc:/Gauges/"
 import DLM 1.0
 
 
-Quick1.TabView {
-    id: tabView
+Item {
     anchors.fill: parent
-
     property int lastdashamount
 
     DLM {
@@ -26,95 +24,69 @@ Quick1.TabView {
         }
     }
 
+    property ListModel tabSources: ListModel {
+        ListElement { title: "Main"; source: "Settings/main.qml" }
+        ListElement { title: "Dash Sel."; source: "Settings/DashSelector.qml" }
+        ListElement { title: "Sensehat"; source: "Settings/sensehat.qml" }
+        ListElement { title: "Warn / Gear"; source: "Settings/warn_gear.qml" }
+        ListElement { title: "Speed"; source: "Settings/speed.qml" }
+        ListElement { title: "ECU"; source: "Settings/analog.qml" } // Use the onCompleted signal to set title
+        ListElement { title: "RPM"; source: "Settings/rpm.qml" }
+        ListElement { title: "EX Board"; source: "qrc:/ExBoardAnalog.qml" }
+        ListElement { title: "Startup"; source: "Settings/startup.qml" }
+        ListElement { title: "Network"; source: "Settings/network.qml" }
+    }
 
+    ListView {
+        id: listView
+        width: 180
+        height: parent.height
+        model: tabSources
 
+        delegate: Item {
+            width: listView.width
+            height: 50
 
-    style: TabViewStyle {
-        frameOverlap: 1
-        tab: Rectangle {
-            id: tabrect
-            color: styleData.selected ? "grey" : "lightgrey"
-            border.color: "steelblue"
-            implicitWidth: Math.max(text.width + 4, 80)
-            implicitHeight: 50
-            radius: 2
-            Text {
-                id: text
-                anchors.centerIn: parent
-                font.pixelSize: tabView.width / 55
-                text: styleData.title
-                color: styleData.selected ? "white" : "black"
+            Rectangle {
+                anchors.fill: parent
+                border.color: "black"
+                Text {
+                    anchors.centerIn: parent
+                    text: title
+                }
+            }
+
+            MouseArea {
+                anchors.fill: parent
+                onClicked: {
+                    console.log("Clicked on " + title)
+                    dynamicLoader.setSource(source);
+                }
             }
         }
-        frame: Rectangle {
-            color: "steelblue"
+
+        ScrollBar.vertical: ScrollBar { }
+    }
+
+    Loader {
+        id: dynamicLoader
+        anchors {
+            left: listView.right
+            top: parent.top
+            right: parent.right
+            bottom: parent.bottom
         }
     }
-    Quick1.Tab {
-        title: "Main"
-        anchors.fill: parent
-        source: "Settings/main.qml"
-    }
-    Quick1.Tab {
-        id: dash
-        title: "Dash Sel."
-        source: "Settings/DashSelector.qml"
-    }
 
-    Quick1.Tab {
-        title: "Sensehat" // Tab index 2
-        source: "Settings/sensehat.qml"
-    }
-    Quick1.Tab {
-        title: "Warn / Gear" // Tab index 3
-        source: "Settings/warn_gear.qml"
-    }
-    Quick1.Tab {
-        title: "Speed" // Tab index 4
-        source: "Settings/speed.qml"
-    }
-
-    Quick1.Tab {
-        id: regtab
-        title: "" // Tab index 5
-        source: "Settings/analog.qml"
-        Component.onCompleted: setregtabtitle()
-    }
-    Quick1.Tab {
-        title: "RPM"
-        source: "Settings/rpm.qml"
-    }
-
-    Quick1.Tab {
-        title: "EX Board" // Tab index 6
-        source: "qrc:/ExBoardAnalog.qml"
-    }
-
-    Quick1.Tab {
-        title: "Startup" // Tab index 8
-        source: "Settings/startup.qml"
-    }
-
-    Quick1.Tab {
-        title: "Network" // Tab index 9
-        source: "Settings/network.qml"
-    }
-
-    function setregtabtitle() {
-        if (Dashboard.ecu == "0") {
-            regtab.title = "Analog"
-        }
-        if (Dashboard.ecu == "1") {
-            regtab.title = "Analog"
-        }
-        if (Dashboard.ecu == "2") {
-            regtab.title = "Consult"
-        }
-        if (Dashboard.ecu == "3") {
-            regtab.title = "OBD"
-        }
-        if (Dashboard.ecu == "4") {
-            regtab.title = "Generic CAN"
+    Component.onCompleted: {
+        // Set the title for the tab with an empty title
+        for (let i = 0; i < tabSources.length; i++) {
+            if (tabSources[i].title === "") {
+                // Assuming setregtabtitle() returns the correct title
+                tabSources[i].title = setregtabtitle()
+                listView.modelChanged() // Force ListView to update
+                break
+            }
         }
     }
 }
