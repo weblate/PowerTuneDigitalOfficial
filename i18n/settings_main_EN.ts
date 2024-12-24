@@ -339,7 +339,7 @@
     <message>
         <location filename="../Settings/speed.qml" line="45"/>
         <source>USB VR Speed Sensor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&#xa0;</translation>
     </message>
     <message>
         <location filename="../Settings/speed.qml" line="70"/>
