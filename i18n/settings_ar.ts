@@ -6,7 +6,7 @@
     <message>
         <location filename="../Settings/DashSelector.qml" line="113"/>
         <source>ActiveDashboards</source>
-        <translation type="unfinished"></translation>
+        <translation>‍koko</translation>
     </message>
 </context>
 <context>
@@ -14,17 +14,17 @@
     <message>
         <location filename="../Settings/main.qml" line="120"/>
         <source>ECU Serial Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="157"/>
         <source>GPS Port</source>
-        <translation type="unfinished"></translation>
+        <translation>‍koko</translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="183"/>
         <source>Speed units</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="192"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="../Settings/main.qml" line="275"/>
         <source>ECU Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>‍koko</translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="307"/>
@@ -101,7 +101,7 @@
     <message>
         <location filename="../Settings/main.qml" line="404"/>
         <source>Serial Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <location filename="../Settings/main.qml" line="429"/>
