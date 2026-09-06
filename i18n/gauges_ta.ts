@@ -281,12 +281,12 @@
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="440"/>
         <source>Description text</source>
-        <translation>சுற்று பாதை விளக்கம் உரை</translation>
+        <translation type="unfinished">சுற்று பாதை விளக்கம் உரை</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="448"/>
         <source>Delete gauge</source>
-        <translation>ரவுண்ட்காகெடிலெட் கேச்</translation>
+        <translation type="unfinished">ரவுண்ட்காகெடிலெட் கேச்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="502"/>
@@ -300,217 +300,217 @@
         <location filename="../Gauges/RoundGauge.qml" line="1923"/>
         <location filename="../Gauges/RoundGauge.qml" line="2110"/>
         <source>Close menu</source>
-        <translation>RoundGaugeClose பட்டியல்</translation>
+        <translation type="unfinished">RoundGaugeClose பட்டியல்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="530"/>
         <source>Gauge size</source>
-        <translation>ரவுண்ட் கேச் அளவு</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் அளவு</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="566"/>
         <source>Backround color</source>
-        <translation>ரவுண்ட்காச் பேக்ரவுண்ட் நிறம்</translation>
+        <translation type="unfinished">ரவுண்ட்காச் பேக்ரவுண்ட் நிறம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="601"/>
         <source>Needle visible</source>
-        <translation>Roundgaugeneedle தெரியும்</translation>
+        <translation type="unfinished">Roundgaugeneedle தெரியும்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="608"/>
         <source>Needle button visible</source>
-        <translation>Roundgaugeneedle பொத்தான் தெரியும்</translation>
+        <translation type="unfinished">Roundgaugeneedle பொத்தான் தெரியும்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="615"/>
         <source>Outer ring visible</source>
-        <translation>ரவுண்ட் கேச் வெளிப்புற வளையம் தெரியும்</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் வெளிப்புற வளையம் தெரியும்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="646"/>
         <source>Start value</source>
-        <translation>Roundgaugestart மதிப்பு</translation>
+        <translation type="unfinished">Roundgaugestart மதிப்பு</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="679"/>
         <source>End value</source>
-        <translation>ரவுண்ட்கேசென்ட் மதிப்பு</translation>
+        <translation type="unfinished">ரவுண்ட்கேசென்ட் மதிப்பு</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="712"/>
         <source>Start angle</source>
-        <translation>ரவுண்ட்காச்ச்டார்ட் கோணம்</translation>
+        <translation type="unfinished">ரவுண்ட்காச்ச்டார்ட் கோணம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="742"/>
         <source>End angle</source>
-        <translation>ரவுண்ட்கேசென்ட் கோணம்</translation>
+        <translation type="unfinished">ரவுண்ட்கேசென்ட் கோணம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="796"/>
         <source>Needle color</source>
-        <translation>சுற்று பாதை ஊசி நிறம்</translation>
+        <translation type="unfinished">சுற்று பாதை ஊசி நிறம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="859"/>
         <source>Needle lenght</source>
-        <translation>சுற்று பாதை ஊசி நீளம்</translation>
+        <translation type="unfinished">சுற்று பாதை ஊசி நீளம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="886"/>
         <source>Needle base width</source>
-        <translation>ரவுண்ட்காசினெடில் அடிப்படை அகலம்</translation>
+        <translation type="unfinished">ரவுண்ட்காசினெடில் அடிப்படை அகலம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="914"/>
         <source>Needle tip width</source>
-        <translation>ரவுண்ட் கேச் ஊசி முனை அகலம்</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் ஊசி முனை அகலம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="943"/>
         <source>Needle offset</source>
-        <translation>ரவுண்ட்காசினெடில் ஆஃப்செட்</translation>
+        <translation type="unfinished">ரவுண்ட்காசினெடில் ஆஃப்செட்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="995"/>
         <source>Outer needle trail</source>
-        <translation>ரவுண்ட்காசியூட்டர் ஊசி பாதை</translation>
+        <translation type="unfinished">ரவுண்ட்காசியூட்டர் ஊசி பாதை</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1034"/>
         <source>Middle needle trail</source>
-        <translation>ரவுண்ட்காசெமிடில் ஊசி பாதை</translation>
+        <translation type="unfinished">ரவுண்ட்காசெமிடில் ஊசி பாதை</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1070"/>
         <source>Lower needle trail</source>
-        <translation>ரவுண்ட்காக்லவர் ஊசி பாதை</translation>
+        <translation type="unfinished">ரவுண்ட்காக்லவர் ஊசி பாதை</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1129"/>
         <source>Minor tickmark height</source>
-        <translation>ரவுண்ட் கேச் சிறிய டிக் குறி உயரம்</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் சிறிய டிக் குறி உயரம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1157"/>
         <source>Minor tickmark width</source>
-        <translation>ரவுண்ட் கேச் சிறிய டிக் குறி அகலம்</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் சிறிய டிக் குறி அகலம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1184"/>
         <source>Minor tickmark steps</source>
-        <translation>ரவுண்ட் கேச் சிறிய டிக் குறி படிகள்</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் சிறிய டிக் குறி படிகள்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1213"/>
         <source>Minor tickmark inset</source>
-        <translation>ரவுண்ட்காசெமினோர் டிக்மார்க் இன்செட்</translation>
+        <translation type="unfinished">ரவுண்ட்காசெமினோர் டிக்மார்க் இன்செட்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1239"/>
         <source>Minor tick active color</source>
-        <translation>ரவுண்ட்காசெமினோர் டிக் ஆக்டிவ் கலர்</translation>
+        <translation type="unfinished">ரவுண்ட்காசெமினோர் டிக் ஆக்டிவ் கலர்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1273"/>
         <source>Minor tick inactive color</source>
-        <translation>ரவுண்ட்காசெமினோர் டிக் செயலற்ற வண்ணம்</translation>
+        <translation type="unfinished">ரவுண்ட்காசெமினோர் டிக் செயலற்ற வண்ணம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1335"/>
         <source>Major tick steps</source>
-        <translation>ரவுண்ட் கேச் முக்கிய டிக் படிகள்</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் முக்கிய டிக் படிகள்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1374"/>
         <source>Major tickmark height</source>
-        <translation>ரவுண்ட் கேச் முக்கிய டிக் குறி உயரம்</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் முக்கிய டிக் குறி உயரம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1404"/>
         <source>Major tickmark width</source>
-        <translation>ரவுண்ட் கேச் மேசர் டிக் மார்க் அகலம்</translation>
+        <translation type="unfinished">ரவுண்ட் கேச் மேசர் டிக் மார்க் அகலம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1435"/>
         <source>Major tickmark inset</source>
-        <translation>ரவுண்ட்காகேமாசோர் டிக்மார்க் இன்செட்</translation>
+        <translation type="unfinished">ரவுண்ட்காகேமாசோர் டிக்மார்க் இன்செட்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1467"/>
         <source>Tickmark active color</source>
-        <translation>Roundgaugetickmark செயலில் வண்ணம்</translation>
+        <translation type="unfinished">Roundgaugetickmark செயலில் வண்ணம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1501"/>
         <source>Tickmark inactive color</source>
-        <translation>ரவுண்ட்காசெட்டிக்மார்க் செயலற்ற நிறம்</translation>
+        <translation type="unfinished">ரவுண்ட்காசெட்டிக்மார்க் செயலற்ற நிறம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1560"/>
         <source>Major label steps</source>
-        <translation>ரவுண்ட்காகேமாசோர் சிட்டை படிகள்</translation>
+        <translation type="unfinished">ரவுண்ட்காகேமாசோர் சிட்டை படிகள்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1594"/>
         <source>Label size</source>
-        <translation>ரவுண்ட்காகலேபிள் அளவு</translation>
+        <translation type="unfinished">ரவுண்ட்காகலேபிள் அளவு</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1625"/>
         <source>Label inset</source>
-        <translation>ரவுண்ட்காகலேபிள் இன்செட்</translation>
+        <translation type="unfinished">ரவுண்ட்காகலேபிள் இன்செட்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1654"/>
         <source>Label Font</source>
-        <translation>ரவுண்ட்காகலேபிள் எழுத்துரு</translation>
+        <translation type="unfinished">ரவுண்ட்காகலேபிள் எழுத்துரு</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1678"/>
         <source>Label active color</source>
-        <translation>ரவுண்ட்காகலேபிள் ஆக்டிவ் கலர்</translation>
+        <translation type="unfinished">ரவுண்ட்காகலேபிள் ஆக்டிவ் கலர்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1712"/>
         <source>Label inactive color</source>
-        <translation>ரவுண்ட்காகலேபிள் செயலற்ற நிறம்</translation>
+        <translation type="unfinished">ரவுண்ட்காகலேபிள் செயலற்ற நிறம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1772"/>
         <source>Low warning trigger</source>
-        <translation>ரவுண்ட்காக்லோ எச்சரிக்கை தூண்டுதல்</translation>
+        <translation type="unfinished">ரவுண்ட்காக்லோ எச்சரிக்கை தூண்டுதல்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1800"/>
         <source>High warning trigger</source>
-        <translation>ரவுண்ட்காச் எச்சரிக்கை தூண்டுதல்</translation>
+        <translation type="unfinished">ரவுண்ட்காச் எச்சரிக்கை தூண்டுதல்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1830"/>
         <source>Red area inset</source>
-        <translation>ரவுண்ட்காகர்டு பகுதி இன்செட்</translation>
+        <translation type="unfinished">ரவுண்ட்காகர்டு பகுதி இன்செட்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1861"/>
         <source>Red start</source>
-        <translation>ரவுண்ட்காகட் தொடக்க</translation>
+        <translation type="unfinished">ரவுண்ட்காகட் தொடக்க</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1892"/>
         <source>Red area width</source>
-        <translation>ரவுண்ட்காகெட் பகுதி அகலம்</translation>
+        <translation type="unfinished">ரவுண்ட்காகெட் பகுதி அகலம்</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1947"/>
         <source>Horizontal position</source>
-        <translation>சுற்று பாதை கிடைமட்ட நிலை</translation>
+        <translation type="unfinished">சுற்று பாதை கிடைமட்ட நிலை</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1978"/>
         <source>Vertical position</source>
-        <translation>சுற்று பாதை செங்குத்து நிலை</translation>
+        <translation type="unfinished">சுற்று பாதை செங்குத்து நிலை</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="2010"/>
