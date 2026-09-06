@@ -281,12 +281,12 @@
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="440"/>
         <source>Description text</source>
-        <translation>Beschreibungs Text</translation>
+        <translation type="unfinished">Beschreibungs Text</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="448"/>
         <source>Delete gauge</source>
-        <translation>Anzeige löschen</translation>
+        <translation type="unfinished">Anzeige löschen</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="502"/>
@@ -300,217 +300,217 @@
         <location filename="../Gauges/RoundGauge.qml" line="1923"/>
         <location filename="../Gauges/RoundGauge.qml" line="2110"/>
         <source>Close menu</source>
-        <translation>Menü schliessen</translation>
+        <translation type="unfinished">Menü schliessen</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="530"/>
         <source>Gauge size</source>
-        <translation>Anzeigen Größe</translation>
+        <translation type="unfinished">Anzeigen Größe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="566"/>
         <source>Backround color</source>
-        <translation>Hintergrund Farbe</translation>
+        <translation type="unfinished">Hintergrund Farbe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="601"/>
         <source>Needle visible</source>
-        <translation>Nadel Sichtbarkeit</translation>
+        <translation type="unfinished">Nadel Sichtbarkeit</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="608"/>
         <source>Needle button visible</source>
-        <translation>Knopf Sichtbarkeit</translation>
+        <translation type="unfinished">Knopf Sichtbarkeit</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="615"/>
         <source>Outer ring visible</source>
-        <translation>Ring Sichtbarkeit</translation>
+        <translation type="unfinished">Ring Sichtbarkeit</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="646"/>
         <source>Start value</source>
-        <translation>Start Wert</translation>
+        <translation type="unfinished">Start Wert</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="679"/>
         <source>End value</source>
-        <translation>End Wert</translation>
+        <translation type="unfinished">End Wert</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="712"/>
         <source>Start angle</source>
-        <translation>Start Winkel</translation>
+        <translation type="unfinished">Start Winkel</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="742"/>
         <source>End angle</source>
-        <translation>End Winkel</translation>
+        <translation type="unfinished">End Winkel</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="796"/>
         <source>Needle color</source>
-        <translation>Nadel Farbe</translation>
+        <translation type="unfinished">Nadel Farbe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="859"/>
         <source>Needle lenght</source>
-        <translation>Nadel Länge</translation>
+        <translation type="unfinished">Nadel Länge</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="886"/>
         <source>Needle base width</source>
-        <translation>Nadel basis breite</translation>
+        <translation type="unfinished">Nadel basis breite</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="914"/>
         <source>Needle tip width</source>
-        <translation>Nadel Spitzen breite</translation>
+        <translation type="unfinished">Nadel Spitzen breite</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="943"/>
         <source>Needle offset</source>
-        <translation>Nadel offset</translation>
+        <translation type="unfinished">Nadel offset</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="995"/>
         <source>Outer needle trail</source>
-        <translation>Oberer Nadel Schweif</translation>
+        <translation type="unfinished">Oberer Nadel Schweif</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1034"/>
         <source>Middle needle trail</source>
-        <translation>Mittlerer Nadel Schweif</translation>
+        <translation type="unfinished">Mittlerer Nadel Schweif</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1070"/>
         <source>Lower needle trail</source>
-        <translation>Unterer Nadel Schweif</translation>
+        <translation type="unfinished">Unterer Nadel Schweif</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1129"/>
         <source>Minor tickmark height</source>
-        <translation>Tick Höhe</translation>
+        <translation type="unfinished">Tick Höhe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1157"/>
         <source>Minor tickmark width</source>
-        <translation>Tick Breite</translation>
+        <translation type="unfinished">Tick Breite</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1184"/>
         <source>Minor tickmark steps</source>
-        <translation>Tick Schritte</translation>
+        <translation type="unfinished">Tick Schritte</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1213"/>
         <source>Minor tickmark inset</source>
-        <translation>Tick Einsatz</translation>
+        <translation type="unfinished">Tick Einsatz</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1239"/>
         <source>Minor tick active color</source>
-        <translation>Tick aktiv Farbe</translation>
+        <translation type="unfinished">Tick aktiv Farbe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1273"/>
         <source>Minor tick inactive color</source>
-        <translation>Untergeordnete Tick inaktiv Farbe</translation>
+        <translation type="unfinished">Untergeordnete Tick inaktiv Farbe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1335"/>
         <source>Major tick steps</source>
-        <translation>Haupt Ticks schritte</translation>
+        <translation type="unfinished">Haupt Ticks schritte</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1374"/>
         <source>Major tickmark height</source>
-        <translation>Haupt Ticks Höhe</translation>
+        <translation type="unfinished">Haupt Ticks Höhe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1404"/>
         <source>Major tickmark width</source>
-        <translation>Haupt Ticks Einsatz</translation>
+        <translation type="unfinished">Haupt Ticks Einsatz</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1435"/>
         <source>Major tickmark inset</source>
-        <translation>Haupt Ticks Einsatz</translation>
+        <translation type="unfinished">Haupt Ticks Einsatz</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1467"/>
         <source>Tickmark active color</source>
-        <translation>Ticks aktiv Farbe</translation>
+        <translation type="unfinished">Ticks aktiv Farbe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1501"/>
         <source>Tickmark inactive color</source>
-        <translation>Ticks inaktiv Farbe</translation>
+        <translation type="unfinished">Ticks inaktiv Farbe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1560"/>
         <source>Major label steps</source>
-        <translation>Haupt Label Schritte</translation>
+        <translation type="unfinished">Haupt Label Schritte</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1594"/>
         <source>Label size</source>
-        <translation>Label Größe</translation>
+        <translation type="unfinished">Label Größe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1625"/>
         <source>Label inset</source>
-        <translation>Label Einsatz</translation>
+        <translation type="unfinished">Label Einsatz</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1654"/>
         <source>Label Font</source>
-        <translation>Label Schriftart</translation>
+        <translation type="unfinished">Label Schriftart</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1678"/>
         <source>Label active color</source>
-        <translation>Label aktiv Farbe</translation>
+        <translation type="unfinished">Label aktiv Farbe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1712"/>
         <source>Label inactive color</source>
-        <translation>Label inaktiv Farbe</translation>
+        <translation type="unfinished">Label inaktiv Farbe</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1772"/>
         <source>Low warning trigger</source>
-        <translation>Unterer Warnungs Trigger</translation>
+        <translation type="unfinished">Unterer Warnungs Trigger</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1800"/>
         <source>High warning trigger</source>
-        <translation>Oberer Warnungs Trigger</translation>
+        <translation type="unfinished">Oberer Warnungs Trigger</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1830"/>
         <source>Red area inset</source>
-        <translation>Rot Bereich Einsatz</translation>
+        <translation type="unfinished">Rot Bereich Einsatz</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1861"/>
         <source>Red start</source>
-        <translation>Rot Start</translation>
+        <translation type="unfinished">Rot Start</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1892"/>
         <source>Red area width</source>
-        <translation>Rot Bereich Breite</translation>
+        <translation type="unfinished">Rot Bereich Breite</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1947"/>
         <source>Horizontal position</source>
-        <translation>Horizontale Position</translation>
+        <translation type="unfinished">Horizontale Position</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1978"/>
         <source>Vertical position</source>
-        <translation>Vertikale Position</translation>
+        <translation type="unfinished">Vertikale Position</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="2010"/>
