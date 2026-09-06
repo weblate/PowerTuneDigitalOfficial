@@ -282,12 +282,12 @@
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="440"/>
         <source>Description text</source>
-        <translation>ラベル</translation>
+        <translation type="unfinished">ラベル</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="448"/>
         <source>Delete gauge</source>
-        <translation>消去</translation>
+        <translation type="unfinished">消去</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="502"/>
@@ -301,217 +301,217 @@
         <location filename="../Gauges/RoundGauge.qml" line="1923"/>
         <location filename="../Gauges/RoundGauge.qml" line="2110"/>
         <source>Close menu</source>
-        <translation>閉じる</translation>
+        <translation type="unfinished">閉じる</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="530"/>
         <source>Gauge size</source>
-        <translation>閉じる</translation>
+        <translation type="unfinished">閉じる</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="566"/>
         <source>Backround color</source>
-        <translation>警告</translation>
+        <translation type="unfinished">警告</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="601"/>
         <source>Needle visible</source>
-        <translation>針</translation>
+        <translation type="unfinished">針</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="608"/>
         <source>Needle button visible</source>
-        <translation>針</translation>
+        <translation type="unfinished">針</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="615"/>
         <source>Outer ring visible</source>
-        <translation>説明文字</translation>
+        <translation type="unfinished">説明文字</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="646"/>
         <source>Start value</source>
-        <translation>メーター消す</translation>
+        <translation type="unfinished">メーター消す</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="679"/>
         <source>End value</source>
-        <translation>メニューを閉じる</translation>
+        <translation type="unfinished">メニューを閉じる</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="712"/>
         <source>Start angle</source>
-        <translation>メーターサイズ</translation>
+        <translation type="unfinished">メーターサイズ</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="742"/>
         <source>End angle</source>
-        <translation>背景色</translation>
+        <translation type="unfinished">背景色</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="796"/>
         <source>Needle color</source>
-        <translation>針</translation>
+        <translation type="unfinished">針</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="859"/>
         <source>Needle lenght</source>
-        <translation>針</translation>
+        <translation type="unfinished">針</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="886"/>
         <source>Needle base width</source>
-        <translation>針</translation>
+        <translation type="unfinished">針</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="914"/>
         <source>Needle tip width</source>
-        <translation>針</translation>
+        <translation type="unfinished">針</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="943"/>
         <source>Needle offset</source>
-        <translation>針</translation>
+        <translation type="unfinished">針</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="995"/>
         <source>Outer needle trail</source>
-        <translation>針可視</translation>
+        <translation type="unfinished">針可視</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1034"/>
         <source>Middle needle trail</source>
-        <translation>針のボタン可視</translation>
+        <translation type="unfinished">針のボタン可視</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1070"/>
         <source>Lower needle trail</source>
-        <translation>外輪可視</translation>
+        <translation type="unfinished">外輪可視</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1129"/>
         <source>Minor tickmark height</source>
-        <translation>開始値</translation>
+        <translation type="unfinished">開始値</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1157"/>
         <source>Minor tickmark width</source>
-        <translation>終了値</translation>
+        <translation type="unfinished">終了値</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1184"/>
         <source>Minor tickmark steps</source>
-        <translation>開始角度</translation>
+        <translation type="unfinished">開始角度</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1213"/>
         <source>Minor tickmark inset</source>
-        <translation>終了角度</translation>
+        <translation type="unfinished">終了角度</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1239"/>
         <source>Minor tick active color</source>
-        <translation>針色</translation>
+        <translation type="unfinished">針色</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1273"/>
         <source>Minor tick inactive color</source>
-        <translation>針の基部幅</translation>
+        <translation type="unfinished">針の基部幅</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1335"/>
         <source>Major tick steps</source>
-        <translation>針の先端幅</translation>
+        <translation type="unfinished">針の先端幅</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1374"/>
         <source>Major tickmark height</source>
-        <translation>針補正</translation>
+        <translation type="unfinished">針補正</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1404"/>
         <source>Major tickmark width</source>
-        <translation>外針跡</translation>
+        <translation type="unfinished">外針跡</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1435"/>
         <source>Major tickmark inset</source>
-        <translation>中針跡</translation>
+        <translation type="unfinished">中針跡</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1467"/>
         <source>Tickmark active color</source>
-        <translation>内針跡</translation>
+        <translation type="unfinished">内針跡</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1501"/>
         <source>Tickmark inactive color</source>
-        <translation>副尺高さ</translation>
+        <translation type="unfinished">副尺高さ</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1560"/>
         <source>Major label steps</source>
-        <translation>副尺幅</translation>
+        <translation type="unfinished">副尺幅</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1594"/>
         <source>Label size</source>
-        <translation>副尺</translation>
+        <translation type="unfinished">副尺</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1625"/>
         <source>Label inset</source>
-        <translation>副尺差し込み</translation>
+        <translation type="unfinished">副尺差し込み</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1654"/>
         <source>Label Font</source>
-        <translation>副尺停止中の色</translation>
+        <translation type="unfinished">副尺停止中の色</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1678"/>
         <source>Label active color</source>
-        <translation>主尺ステップ</translation>
+        <translation type="unfinished">主尺ステップ</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1712"/>
         <source>Label inactive color</source>
-        <translation>主尺高さ</translation>
+        <translation type="unfinished">主尺高さ</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1772"/>
         <source>Low warning trigger</source>
-        <translation>主尺幅</translation>
+        <translation type="unfinished">主尺幅</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1800"/>
         <source>High warning trigger</source>
-        <translation>主尺差し込み</translation>
+        <translation type="unfinished">主尺差し込み</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1830"/>
         <source>Red area inset</source>
-        <translation>主尺停止中の色</translation>
+        <translation type="unfinished">主尺停止中の色</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1861"/>
         <source>Red start</source>
-        <translation>主尺停止中の色</translation>
+        <translation type="unfinished">主尺停止中の色</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1892"/>
         <source>Red area width</source>
-        <translation>主ラベルステップ</translation>
+        <translation type="unfinished">主ラベルステップ</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1947"/>
         <source>Horizontal position</source>
-        <translation>ラベルサイズ</translation>
+        <translation type="unfinished">ラベルサイズ</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="1978"/>
         <source>Vertical position</source>
-        <translation>ラベル差し込み</translation>
+        <translation type="unfinished">ラベル差し込み</translation>
     </message>
     <message>
         <location filename="../Gauges/RoundGauge.qml" line="2010"/>
